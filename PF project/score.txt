@@ -1,0 +1,7 @@
+Haris: 100
+khalid: 170
+haris: 60
+umair: 230
+Saad: 210
+saad: 90
+Ali : 300
